@@ -11,5 +11,6 @@ public class AnotherGit
     void dosome()
     {
         System.out.println("Adding new method in master at 1.52 pm");
+        System.out.println("Adding new method in master at 1.59 pm");
     }
 }
